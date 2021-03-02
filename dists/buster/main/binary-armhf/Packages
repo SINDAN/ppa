@@ -13,16 +13,16 @@ MD5sum: 6590041e955ffc991bc3d475e24b8232
 Description: Local management agent for SINDAN Manager
 
 Package: sindan-manager-agent-camp2103
-Version: 0.1-7
+Version: 0.1-8
 Architecture: armhf
 Depends: git, make, uuid-runtime, wireless-tools, ndisc6, dnsutils, curl, chromium-browser, nodejs, npm
 Maintainer: Taichi MIYA <tmiya@protonmail.ch>
 Priority: extra
 Section: net
-Filename: pool/main/s/sindan-manager-agent-camp2103/sindan-manager-agent-camp2103_0.1-7_armhf.deb
-Size: 3294268
-SHA256: cb6a8c67ca41bf1f8da7470dca341f2cdbb836c497e6726f679921b8b880528a
-SHA1: d45786505d1c48c591da0e1e4a9777f8ecbe4a3b
-MD5sum: 8e8fa4746ceb917657ac49591aee2e3b
+Filename: pool/main/s/sindan-manager-agent-camp2103/sindan-manager-agent-camp2103_0.1-8_armhf.deb
+Size: 3294240
+SHA256: 98bab6e62a7bfcdc5156a2d5a34e01f76d230449930292fba0a02a364d229c05
+SHA1: a8ac315deabd5bb3e1092982198d72c6bdf5d057
+MD5sum: 5b1c7f512872a5d694541401efff1e48
 Description: Local management agent for SINDAN Manager customized for WIDE-CAMP 2103
 
