@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: https://sindan.github.io/ppa
+Label: https://sindan.github.io/ppa
+Architecture: armhf
+Description: Local management agent for SINDAN Manager

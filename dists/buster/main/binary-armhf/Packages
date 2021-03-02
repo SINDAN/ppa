@@ -1,0 +1,14 @@
+Package: sindan-manager-agent
+Version: 0.1-5
+Architecture: armhf
+Depends: git, make, uuid-runtime, wireless-tools, ndisc6, dnsutils, curl, chromium-browser, nodejs, npm
+Maintainer: Taichi MIYA <tmiya@protonmail.ch>
+Priority: extra
+Section: net
+Filename: pool/main/s/sindan-manager-agent/sindan-manager-agent_0.1-5_armhf.deb
+Size: 3294664
+SHA256: 84712b8bcc95e33c9b4ecee47ddf9429760cbbaf3f4c06f081f0c04b47c22f87
+SHA1: 5e83405abf51fcac25e53281a4f1baa52a01a320
+MD5sum: 6590041e955ffc991bc3d475e24b8232
+Description: Local management agent for SINDAN Manager
+

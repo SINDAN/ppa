@@ -1,0 +1,8 @@
+Origin: https://sindan.github.io/ppa
+Label: https://sindan.github.io/ppa
+Codename: buster
+Suite: stable
+Architectures: armhf
+Components: main
+Description: Local management agent for SINDAN Manager
+SignWith: CC9CA42CD575D483BFB8F7775D23472DD72A7D57

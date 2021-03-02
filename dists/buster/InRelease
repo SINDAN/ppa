@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: https://sindan.github.io/ppa
+Label: https://sindan.github.io/ppa
+Suite: stable
+Codename: buster
+Date: Tue, 02 Mar 2021 15:59:46 UTC
+Architectures: armhf
+Components: main
+Description: Local management agent for SINDAN Manager
+MD5Sum:
+ 05b046216f14c910ed4acae29d5f6126 555 main/binary-armhf/Packages
+ 47c0b5f9a0848aa6c3853e8da20794b2 406 main/binary-armhf/Packages.gz
+ 06bc556a9b1d7f8ac579a5b7f9a56ec4 180 main/binary-armhf/Release
+SHA1:
+ 9c3048fe4d3f08158793e75efd679aa21f4bb8ab 555 main/binary-armhf/Packages
+ 6dcc4e1b4353fc4e840437f569cf24aab1545166 406 main/binary-armhf/Packages.gz
+ 8dba97ffe510ea795ca4bc76d04a164866e182d0 180 main/binary-armhf/Release
+SHA256:
+ fd821bbef3e6892b46c0fac126fc5dd6c1230bce890c0664cbae1a2635951415 555 main/binary-armhf/Packages
+ 5ace57a60c4c4ada0db2a722210e76ce335695660b2debcd8a126d3aa8e1554d 406 main/binary-armhf/Packages.gz
+ 3ec6be6998f5fbf47494268d400e155ffe8d4b0fd7b245e61ff425327a0aad04 180 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzJykLNV11IO/uPd3XSNHLdcqfVcFAmA+YPUACgkQXSNHLdcq
+fVcHBhAAiBGUY15OXkSvQtGEbTix04V5XvaU9nL5rO92VVC+YB1/nFurE/BC8BYG
+IxWwH2YbfuoWJQpqUc+y9amTLuu6VFpb4Vq59DmwMb8z+2iN837lnYx5Y4FSLXZT
+8H2gTXSpSNJjd/n0iy7U/2FIlvW3lJk//z+x+N8DWt1llIgWIf6xwX+3jjh6Y9Fi
+liiqtioOkcpdK0FQzCNwENQSwasZMoc0g5Ph8jJ5v2OxC6zztC/9tR0fcYMjA1Sx
+z5otkThrZrFB09aB9gvejsm4cHzH2YhCy4MPcWmLVPJUH+nv/U+kbUFZAbgr1vQa
+g9ulTc9tWspFRUr6FiiqTW+n7j1IgN/baJK5RpR8AGgXA1swnrCtIjw1rbXnMlrr
+7//FRJUSw2UWYlGWgsUBzhVkGBWNGyd+E2coRaQoszlg3nuZtH0+k1U8pqN+fAs5
+7Mt8CyidmtoBEIwUMas/NMF10rqCeHNKzdYMA+KT+3/66FSejhEJQvIpPU0B+D0c
+Pc3DRXiJ0FT9knkRh6CNz5eSFns7Ukhsg4Bgf3/vf9do4I/2gxer3XJATpdlDfSS
+rpDUvsg7PzVBuVNKWRnGjt8LJfAPAuIOXhYb/zmScP2NvjUlWqNyVPlyBOjQWOen
+1+aDUOA+7A0haf6CHNPyR58L47YDUwSQX2ZBCtgw9XEVzmKvROM=
+=YXYo
+-----END PGP SIGNATURE-----
