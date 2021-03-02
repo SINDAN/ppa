@@ -19,13 +19,17 @@ Make sure you can see some packages from our PPA.
 $ apt search sindan-manager-agent
 Sorting... Done
 Full Text Search... Done
-sindan-manager-agent/stable 0.1-3 armhf
+sindan-manager-agent/stable 0.1-5 armhf
   Local management agent for SINDAN Manager
+
+sindan-manager-agent-camp2103/stable 0.1-6 armhf
+  Local management agent for SINDAN Manager customized for WIDE-CAMP 2103
 ```
 
 Then you can install packages as usual.
 
 ```
+$ sudo apt upgrade -y
 $ sudo apt install -y sindan-manager-agent
 ```
 
