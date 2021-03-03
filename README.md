@@ -10,8 +10,8 @@ Note that current PPA is only available for **Raspbian (buster) running on ARMv7
 Import GPG key, add sources.list and update package lists by:
 
 ```
-$ curl -s https://sindan.github.io/ppa/sindan.key | sudo apt-key add -
-$ echo "deb https://sindan.github.io/ppa buster main" | sudo tee /etc/apt/sources.list.d/sindan.list
+$ curl -s https://dl.sindan-net.com/sindan.key | sudo apt-key add -
+$ echo "deb https://dl.sindan-net.com buster main" | sudo tee /etc/apt/sources.list.d/sindan.list
 $ sudo apt update
 ```
 
