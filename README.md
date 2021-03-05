@@ -16,17 +16,23 @@ $ echo "deb https://dl.sindan-net.com $(lsb_release -cs) main" |\
 $ sudo apt update
 ```
 
-Make sure you can see some packages from our PPA.
+Make sure you can see some SINDAN products from our PPA.
 
 ```
-$ apt search sindan-manager-agent
+$ apt search sindan
 Sorting... Done
 Full Text Search... Done
-sindan-manager-agent/stable 0.1-5 armhf
-  Local management agent for SINDAN Manager
+sindan-client/stable 2.3.3-1 armhf
+  Wi-Fi monitoring solution - client
 
-sindan-manager-agent-camp2103/stable 0.1-6 armhf
-  Local management agent for SINDAN Manager customized for WIDE-CAMP 2103
+sindan-client-camp2103/stable 2.3.3-7 armhf
+  Wi-Fi monitoring solution for WIDE-CAMP 2103 - client
+
+sindan-manager-agent/stable 0.1-8 armhf
+  Wi-Fi monitoring solution - local management agent (SINDAN Manager)
+
+sindan-manager-agent-camp2103/stable 0.1-15 armhf
+  Wi-Fi monitoring solution for WIDE-CAMP 2103 - local management agent (SINDAN Manager)
 ```
 
 Then you can install packages as usual.
