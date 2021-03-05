@@ -5,35 +5,35 @@ Origin: https://sindan.github.io/ppa
 Label: https://sindan.github.io/ppa
 Suite: stable
 Codename: buster
-Date: Fri, 05 Mar 2021 13:37:40 UTC
+Date: Fri, 05 Mar 2021 13:57:58 UTC
 Architectures: armhf
 Components: main
 Description: Local management agent for SINDAN Manager
 MD5Sum:
- 9dc1d90c45b931634766e6dd11f50ecd 1667 main/binary-armhf/Packages
- 1e98a4896adc40e4f1b4d4c640c44934 726 main/binary-armhf/Packages.gz
+ e4d1808836aada5a06ad4c025b382207 2196 main/binary-armhf/Packages
+ 29f691ee2e13608a0ab5baea8623c8bf 840 main/binary-armhf/Packages.gz
  06bc556a9b1d7f8ac579a5b7f9a56ec4 180 main/binary-armhf/Release
 SHA1:
- 8da3175ff5408d796ffddcde49fb9091cbd358a6 1667 main/binary-armhf/Packages
- 74fc009e541a8c09472c23075d2c1c11fab1c5a3 726 main/binary-armhf/Packages.gz
+ d98956b4dcfe7a0c3c55ab2ba8ad47df4b20987c 2196 main/binary-armhf/Packages
+ 7a56ba5131fcb3cee3ac024f406cc4fedc549706 840 main/binary-armhf/Packages.gz
  8dba97ffe510ea795ca4bc76d04a164866e182d0 180 main/binary-armhf/Release
 SHA256:
- d620e3e1fb22c718014083f7e11d8abb799bcdf104b34f27511fd541aa1cccae 1667 main/binary-armhf/Packages
- 6b24baa667badcbac55cbab030361efd1adf539c102b81b01fa5f02fd4629ca7 726 main/binary-armhf/Packages.gz
+ 93c375fd7893acf46340dd6a27d77997a58092d40c9d1682e19e3765d9ce8b0c 2196 main/binary-armhf/Packages
+ af62daac263417e0f08b55bdd3391d42dbb344c1d2f0f584342551f8dfb79360 840 main/binary-armhf/Packages.gz
  3ec6be6998f5fbf47494268d400e155ffe8d4b0fd7b245e61ff425327a0aad04 180 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEzJykLNV11IO/uPd3XSNHLdcqfVcFAmBCNCQACgkQXSNHLdcq
-fVcTARAAvilV5CCOOojQO+Gl2DT+/NxLi4oqrHnSQ9vJ5AAhjmFyjvyx7Uk1WlnS
-vuz254WJTO9AA7iClakBarzsStrwgo7bY9XsJQOcU02rDMDIKUQrgsvby6G4IdrL
-zKgrAUH5831Q7rx2X2fSmcC8NwSEI6sgk86O/i7htuFmQc6h4mODXHRJDxS8oGez
-aW3xv9qmlQK73ij8MGEI5pQ8BXuXLPwb0PxcYhnQniEYJzBV1/4iXRjbRJUcqbqd
-cB5FqyD+UlfVSotLJWjIImaRZuMQJCu3pB5FpKEFaP++5pOamXKE9zdBaGU1vz5z
-NUI0/PoUEAWPbRQV3NSVlzVrZ7ElH+0legLUPSyr76wt2Ss0r8A3plGvEhAZXUYS
-nRD41vlkbX3G+6J0LE5uWNQseRAefpfw8BbBEr1t9GAbFk+iTbhYd1AJFGBxLpgi
-pGKR0bkfDtFtBtx4KEIHfw3OB07oAkbdEYfgEX9mVHplBIYfluE0dW3+nAtMdTOt
-aVPiodQFS0A15PGaQEBMDxkbGAL6tY9ll1AnRyiD0Nww9yzzyzDJWD4sFLdHqYus
-57AzZs1umIYh6U7rrCk/Xs9fS4BWeir8rSkkyKLabT+Cy59oyfV8FRurKa2ksc5W
-rcuADFFS95kvJQ2UBXAfDBYPr07mw99yRuB9DpfehvbOkSVKDNs=
-=fEWm
+iQIzBAEBCgAdFiEEzJykLNV11IO/uPd3XSNHLdcqfVcFAmBCOOcACgkQXSNHLdcq
+fVe21g//UBtfxmoW9p0bvRGCdVCR1W3tHQvsCCQlmaGessN/u1wXhD1+OAtLg7Nv
+xDLqR/x2qZ60/uT43RubHfEQH/ld89pHpmeSq8mJ6hvrhgiBUV9Ppk84dVXSb83J
+NhrtwlykDb/RvoAKB6YVVlGw2PCiMnAymTX4PWz/8AKT8KiH0tmqfQTH5Kx8fvHQ
+E6nhm69NXBjz2CgTm4XedlzKfW8+djMBENMeRcdyxE0IMsv6h2rRe8rDMKTncmHG
+dxhF/SD4IJRbVUq4V57kd35Q6CuGAUe/gO5f64V5Cg3VxPcs+Mu77nwbhkGVdpq6
+kaOaYwRmAFpI/q0Zqo6dTiECK3VS/g4eHmfwZIfPeujENDmnNc16wusD7cJ2bhuf
+xi5uznYa6JEfYPX7DVy3OuooGMjQeYRepu/yNZKTJaQZ5s3jzq23R6KDUKN/fb3v
+IUNmRJ5+KJPk1UpFgYi8CKZtxOMS1UQFTyJodLMBzybBMnwYih00ntdCTFQEWfv4
+cj2j/pd7HQyNDkeOkuhrHJLHM7MQoNonMq4R57Va5ARMYZOOvn203ZgvZ/OqzclG
++7xerTqhchpMyWaVELz5RKGHbvOPhg3CBN1ecWoJ0xuHfb088NBFVP9YFFVY5ybT
+aOZMoC7YIksl5KsRZc6O4mGKO2rlvaH4O+wyFBa5Q1w8nqGGRCs=
+=bSdG
 -----END PGP SIGNATURE-----

@@ -1,3 +1,17 @@
+Package: sindan-client
+Version: 2.3.3-1
+Architecture: armhf
+Depends: git, make, uuid-runtime, wireless-tools, ndisc6, dnsutils, curl, chromium-browser, nodejs, npm
+Maintainer: Taichi MIYA <tmiya@protonmail.ch>
+Priority: extra
+Section: net
+Filename: pool/main/s/sindan-client/sindan-client_2.3.3-1_armhf.deb
+Size: 54644
+SHA256: 103abdf960016ed66c1fc0d3f4abc8dc31d092ce0f5bf9bc839431781ef9b974
+SHA1: 13068d38db0659120f5413b6c153e80d623238e3
+MD5sum: b7e20e2a0d7887021f2660104e2f172a
+Description: Wi-Fi monitoring solution - client
+
 Package: sindan-client-camp2103
 Version: 2.3.3-7
 Architecture: armhf
@@ -27,16 +41,16 @@ MD5sum: 01d73ee87371fe76f5119a1656659f7b
 Description: Wi-Fi monitoring solution - local management agent (SINDAN Manager)
 
 Package: sindan-manager-agent-camp2103
-Version: 0.1-14
+Version: 0.1-15
 Architecture: armhf
-Depends: sindan-client-camp2103 (>= 2.3.3-5)
+Depends: sindan-client-camp2103 (>= 2.3.3-7)
 Maintainer: Taichi MIYA <tmiya@protonmail.ch>
 Priority: extra
 Section: net
-Filename: pool/main/s/sindan-manager-agent-camp2103/sindan-manager-agent-camp2103_0.1-14_armhf.deb
-Size: 3293740
-SHA256: f0058fd3a91bab26ce1867e951151c52d3d63be5e90a1cd01e7d656642ac4e43
-SHA1: 67c3739b95c5096c8b4c017444c53ad2decee0a5
-MD5sum: 631f47d956989c35de3c56b656c6a249
+Filename: pool/main/s/sindan-manager-agent-camp2103/sindan-manager-agent-camp2103_0.1-15_armhf.deb
+Size: 3293992
+SHA256: 1d6450e1a59280743a919e9d4e4fd06b7271d647bafd402bc2d24b9b920eace5
+SHA1: c54315d9ba9b22edeb811ed560e3b5bf526e248d
+MD5sum: 86a95b2be3d891f9a5993b6e37d76395
 Description: Wi-Fi monitoring solution for WIDE-CAMP 2103 - local management agent (SINDAN Manager)
 
