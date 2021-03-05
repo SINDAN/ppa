@@ -13,30 +13,30 @@ MD5sum: deffceeb97e395d8928987f1b9676008
 Description: Wi-Fi monitoring solution customized for WIDE-CAMP 2103 - client (using NodeJS)
 
 Package: sindan-manager-agent
-Version: 0.1-5
+Version: 0.1-6
 Architecture: armhf
 Depends: git, make, uuid-runtime, wireless-tools, ndisc6, dnsutils, curl, chromium-browser, nodejs, npm
 Maintainer: Taichi MIYA <tmiya@protonmail.ch>
 Priority: extra
 Section: net
-Filename: pool/main/s/sindan-manager-agent/sindan-manager-agent_0.1-5_armhf.deb
-Size: 3294664
-SHA256: 84712b8bcc95e33c9b4ecee47ddf9429760cbbaf3f4c06f081f0c04b47c22f87
-SHA1: 5e83405abf51fcac25e53281a4f1baa52a01a320
-MD5sum: 6590041e955ffc991bc3d475e24b8232
-Description: Local management agent for SINDAN Manager
+Filename: pool/main/s/sindan-manager-agent/sindan-manager-agent_0.1-6_armhf.deb
+Size: 3293584
+SHA256: ec70dcb9c1cfeb4c260fbf1ceea68cad0a6b65f058876cc6615134c3c5873e46
+SHA1: aa04bfdf17e5583290f3bbb4c9fdc7b4bc9c334e
+MD5sum: 08e47547f92dcd2453ee5dd915179e50
+Description: Wi-Fi monitoring solution - local management agent (SINDAN Manager)
 
 Package: sindan-manager-agent-camp2103
-Version: 0.1-10
+Version: 0.1-11
 Architecture: armhf
 Depends: git, make, uuid-runtime, wireless-tools, ndisc6, dnsutils, curl, chromium-browser, nodejs, npm
 Maintainer: Taichi MIYA <tmiya@protonmail.ch>
 Priority: extra
 Section: net
-Filename: pool/main/s/sindan-manager-agent-camp2103/sindan-manager-agent-camp2103_0.1-10_armhf.deb
-Size: 3294988
-SHA256: d3293afe6c6e4453c422ddcf2e8164ef522f3650af3698ccb1035727816a6ab5
-SHA1: 6e25130e29852fbfe9b5d95db23be978ef8753ec
-MD5sum: eca267925b43bb5651d4bbd982dba7d3
-Description: Local management agent for SINDAN Manager customized for WIDE-CAMP 2103
+Filename: pool/main/s/sindan-manager-agent-camp2103/sindan-manager-agent-camp2103_0.1-11_armhf.deb
+Size: 3295508
+SHA256: 4585d5ac9bd17abce8ec68b7c08088d8a11a2803852cdd7f2da313f6c85d2486
+SHA1: f6f643800bafaae6abc674f374926067b4076069
+MD5sum: d24f5c97753573e2a00f1836ae691964
+Description: Wi-Fi monitoring solution for WIDE-CAMP 2103 - local management agent (SINDAN Manager)
 
