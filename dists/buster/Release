@@ -2,19 +2,19 @@ Origin: https://sindan.github.io/ppa
 Label: https://sindan.github.io/ppa
 Suite: stable
 Codename: buster
-Date: Fri, 05 Mar 2021 06:11:10 UTC
+Date: Fri, 05 Mar 2021 12:57:04 UTC
 Architectures: armhf
 Components: main
 Description: Local management agent for SINDAN Manager
 MD5Sum:
- 11d4a7467ac879bef26d5187a7e08fd4 1726 main/binary-armhf/Packages
- 70360eb0eb57675f803c79d164205c7e 726 main/binary-armhf/Packages.gz
+ 578109144a479c5f69076c5fd687236c 1686 main/binary-armhf/Packages
+ 8199bbebd4affd4b7093c5b3a4c748e3 722 main/binary-armhf/Packages.gz
  06bc556a9b1d7f8ac579a5b7f9a56ec4 180 main/binary-armhf/Release
 SHA1:
- 21ac79fe1b561c61910b83243d71d04999d874f2 1726 main/binary-armhf/Packages
- 0848913b60ebda383751116f0fb028fb6a2835d6 726 main/binary-armhf/Packages.gz
+ f61d98bc89e51b2faef20cb14195d6fdc7543262 1686 main/binary-armhf/Packages
+ 50b71a1d7c2beb58da722206631b7f30341fae4e 722 main/binary-armhf/Packages.gz
  8dba97ffe510ea795ca4bc76d04a164866e182d0 180 main/binary-armhf/Release
 SHA256:
- 49aab4074fcce2b59c5fc19565307509a80fa13c825e31880d73c9165e4bf443 1726 main/binary-armhf/Packages
- 30126215cd38d88da7a18849f9e94994cd4360d57bf56525da33791e47d0f845 726 main/binary-armhf/Packages.gz
+ 4ecd216186a747ce523fd1047b7c126d0dc4cb36cc9f5667b79c185863d0682e 1686 main/binary-armhf/Packages
+ 98dfdc5e5a6c834f2a25ee7da66f6e79b8c463576c1bfc2c38121a58e9ea6f4c 722 main/binary-armhf/Packages.gz
  3ec6be6998f5fbf47494268d400e155ffe8d4b0fd7b245e61ff425327a0aad04 180 main/binary-armhf/Release
