@@ -1,15 +1,15 @@
 Package: sindan-client-camp2103
-Version: 2.3.3-1
+Version: 2.3.3-2
 Architecture: armhf
 Depends: git, make, uuid-runtime, wireless-tools, ndisc6, dnsutils, curl, chromium-browser, nodejs, npm
 Maintainer: Taichi MIYA <tmiya@protonmail.ch>
 Priority: extra
 Section: net
-Filename: pool/main/s/sindan-client-camp2103/sindan-client-camp2103_2.3.3-1_armhf.deb
-Size: 55052
-SHA256: 8265d6783eec45c76ed2574a17152a9a9c959b813c6c49a7727931abe1fa84d4
-SHA1: 154f3f043cbaef7287c1706c25fa07e798fe2d97
-MD5sum: 73fc6ad277814005abb46835a0213097
+Filename: pool/main/s/sindan-client-camp2103/sindan-client-camp2103_2.3.3-2_armhf.deb
+Size: 55060
+SHA256: af5219d13db98cfb5e86e700429796da7ccad9be95b06898f7b8197485daa822
+SHA1: 01524a319349dbcf8a9e609f3a89acf84ca5926f
+MD5sum: 2036f72a163b76af57b037e30dec8e0d
 Description: Wi-Fi monitoring solution for WIDE-CAMP 2103 - client
 
 Package: sindan-manager-agent
@@ -27,16 +27,16 @@ MD5sum: 08e47547f92dcd2453ee5dd915179e50
 Description: Wi-Fi monitoring solution - local management agent (SINDAN Manager)
 
 Package: sindan-manager-agent-camp2103
-Version: 0.1-11
+Version: 0.1-12
 Architecture: armhf
-Depends: git, make, uuid-runtime, wireless-tools, ndisc6, dnsutils, curl, chromium-browser, nodejs, npm
+Depends: sindan-client-camp2103 (>= 2.3.3-2)
 Maintainer: Taichi MIYA <tmiya@protonmail.ch>
 Priority: extra
 Section: net
-Filename: pool/main/s/sindan-manager-agent-camp2103/sindan-manager-agent-camp2103_0.1-11_armhf.deb
-Size: 3295508
-SHA256: 4585d5ac9bd17abce8ec68b7c08088d8a11a2803852cdd7f2da313f6c85d2486
-SHA1: f6f643800bafaae6abc674f374926067b4076069
-MD5sum: d24f5c97753573e2a00f1836ae691964
+Filename: pool/main/s/sindan-manager-agent-camp2103/sindan-manager-agent-camp2103_0.1-12_armhf.deb
+Size: 3295292
+SHA256: 5167e50711754235736ddb37feb59c85d29c5aabe9c44bf151523377a6940b48
+SHA1: c27d3bbf426c6522e40edb2bd8e4455b935100dd
+MD5sum: 0c3b119b23bdeac7c72fda5879aaddbd
 Description: Wi-Fi monitoring solution for WIDE-CAMP 2103 - local management agent (SINDAN Manager)
 
