@@ -6,7 +6,7 @@ PPA owned by [@SINDAN](https://github.com/SINDAN) project - see [ppa branch](htt
 
 ## Getting started with your Raspberry Pi
 
-Note that current PPA is only available for **Raspbian (buster) running on ARMv7**.
+Note that current PPA is only available for **Raspberry Pi OS Lite (buster) running on ARMv8**.
 Import GPG key, add sources.list and update package lists by:
 
 ```
